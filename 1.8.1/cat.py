@@ -4,11 +4,11 @@ class Cat:
         self.gender = gender
         self.age = age
 
-    def getName(self):
+    def get_name(self):
         return self.name
 
-    def getGender(self):
+    def get_gender(self):
         return self.gender
 
-    def getAge(self):
+    def get_age(self):
         return self.age
