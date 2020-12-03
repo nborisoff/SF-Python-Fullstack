@@ -11,7 +11,5 @@ class Rectangle:
 
 
 r1 = Rectangle(5, 10, 50, 100)
-r2 = Rectangle(10, 20, 100, 150)
 
 print(r1.get_info())
-print(r2.get_info())
